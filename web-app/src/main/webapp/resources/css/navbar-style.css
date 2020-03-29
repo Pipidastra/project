@@ -1,0 +1,85 @@
+.navbar{
+    background: #80ced6;
+}
+
+#home{
+    color:#fefbd8;
+    font-size:25px ;
+    font-family:Brush Script Std, cursive;
+    position: absolute;
+    left: 20px;
+    text-decoration: none;
+}
+
+.textWrapLeft{
+    float: left;
+    margin: 10px;
+}
+
+.position-1{
+    position: absolute;
+    left: 280px;
+    top: 7px;
+    color: #fefbd8;
+    font-family:sans-serif;
+}
+
+.position-2{
+    position: absolute;
+    left: 460px;
+    top: 7px;
+    color: #fefbd8;
+    font-family:sans-serif;
+}
+
+.position-3{
+    position: absolute;
+    /*left: 320px;*/
+    top: 7px;
+    color: #fefbd8;
+    font-family:sans-serif;
+}
+.position-7{
+    position: absolute;
+    right: 150px;
+    top: 7px;
+    color: #fefbd8;
+    font-family:sans-serif;
+}
+
+.position-4{
+    position: absolute;
+    left: 1000px;
+    top: 15px;
+    color: #fefbd8;
+    font-family:sans-serif;
+}
+.position-5{
+    position: absolute;
+    left: 1150px;
+    top: 14px;
+    font-family:sans-serif;
+}
+.position-6{
+    position: absolute;
+    top: 7px;
+    left: 1250px;
+    color: #fefbd8;
+    font-family:sans-serif;
+}
+
+.btn-outline-primary {
+    background-color: #80ced6;
+    border-color: #fefbd8;
+}
+
+.select{
+    border-radius:  6px;
+    -moz-border-radius:  5px;
+}
+
+:root {
+    --input-padding-x: 1.5rem;
+    --input-padding-y: .75rem;
+}
+

@@ -1,0 +1,12 @@
+.commentForm {
+    position: absolute;
+    left: 20px;
+    bottom: 50px;
+    -webkit-box-shadow: 2px 2px 2px 0px #dddddd;
+    -moz-box-shadow: 2px 2px 2px 0px #dddddd;
+    box-shadow: 2px 2px 2px 0px #dddddd;
+    padding-left: 0.8rem;
+    font-weight: 200;
+    border-radius: 6px;
+    -moz-border-radius: 5px;
+}
